@@ -1,0 +1,64 @@
+Season,Stage,Date,Team 1,Team 2,Winner,Result,Venue
+2009-10,Super League,2009-10-27,Maharashtra,Punjab,Maharashtra,Maharashtra won by 6 wickets,Chennai
+2009-10,Super League,2009-10-28,Maharashtra,Mumbai,Maharashtra,Maharashtra won by 4 runs,Chennai
+2010-11,Semi-Final,2010-10-19,Bengal,Delhi,Bengal,Bengal won by 6 wickets,Indore
+2010-11,Semi-Final,2010-10-19,Jharkhand,Punjab,Jharkhand,Jharkhand won by 5 wickets,Indore
+2010-11,Final,2010-10-20,Bengal,Jharkhand,Bengal,Bengal won by 1 run,Indore
+2011-12,Semi-Final,2012-03-28,Baroda,Punjab,Punjab,Punjab won by 50 runs,Mumbai
+2011-12,Semi-Final,2012-03-28,Delhi,Maharashtra,Delhi,Delhi won by 8 wickets,Mumbai
+2011-12,Final,2012-03-29,Punjab,Baroda,Punjab,Punjab won by 3 wickets (Super Over),Mumbai
+2012-13,Semi-Final,2013-03-30,Gujarat,Delhi,Gujarat,Gujarat won by 6 wickets,Ranchi
+2012-13,Semi-Final,2013-03-30,Karnataka,Punjab,Punjab,Punjab won by 5 wickets,Ranchi
+2012-13,Final,2013-03-31,Gujarat,Punjab,Gujarat,Gujarat won by 4 wickets,Ranchi
+2013-14,Semi-Final,2014-04-14,Uttar Pradesh,Punjab,Uttar Pradesh,Uttar Pradesh won by 5 wickets,Mumbai
+2013-14,Semi-Final,2014-04-14,Baroda,Kerala,Baroda,Baroda won by 6 wickets,Mumbai
+2013-14,Final,2014-04-15,Uttar Pradesh,Baroda,Uttar Pradesh,Uttar Pradesh won by 3 runs,Mumbai
+2014-15,Semi-Final,2015-04-12,Gujarat,Baroda,Gujarat,Gujarat won by 6 wickets,Bhubaneswar
+2014-15,Semi-Final,2015-04-12,Punjab,Delhi,Punjab,Punjab won by 5 wickets,Bhubaneswar
+2014-15,Final,2015-04-15,Gujarat,Punjab,Gujarat,Gujarat won by 2 wickets,Bhubaneswar
+2015-16,Quarter-Final,2016-01-24,Jharkhand,Delhi,Jharkhand,Jharkhand won by 3 runs,Raipur
+2015-16,Quarter-Final,2016-01-24,Kerala,Bengal,Kerala,Kerala won by 4 runs,Raipur
+2015-16,Semi-Final,2016-01-31,Uttar Pradesh,Gujarat,Uttar Pradesh,UP won by 7 wickets,Mumbai
+2015-16,Final,2016-02-01,Mumbai,Vidarbha,Mumbai,Mumbai won by 1 run,Mumbai
+2016-17,Semi-Final,2017-02-18,Bengal,Baroda,Bengal,Bengal won by 7 wickets,Mumbai
+2016-17,Semi-Final,2017-02-18,Punjab,Mumbai,Punjab,Punjab won by 4 wickets,Mumbai
+2017-18,Semi-Final,2018-01-25,Punjab,Rajasthan,Punjab,Punjab won by 5 runs,Kolkata
+2017-18,Semi-Final,2018-01-25,Jharkhand,Karnataka,Karnataka,Karnataka won by 123 runs,Kolkata
+2017-18,Final,2018-01-27,Delhi,Rajasthan,Delhi,Delhi won by 41 runs,Kolkata
+2018-19,Semi-Final,2019-03-12,Karnataka,Bengal,Karnataka,Karnataka won by 6 wickets,Indore
+2018-19,Semi-Final,2019-03-12,Mumbai,Delhi,Mumbai,Mumbai won by 8 wickets,Indore
+2018-19,Final,2019-03-14,Karnataka,Maharashtra,Karnataka,Karnataka won by 8 wickets,Indore
+2019-20,Semi-Final,2019-11-29,Karnataka,Mumbai,Karnataka,Karnataka won by 7 wickets,Surat
+2019-20,Semi-Final,2019-11-29,Haryana,Maharashtra,Haryana,Haryana won by 2 runs,Surat
+2019-20,Final,2019-12-01,Karnataka,Tamil Nadu,Karnataka,Karnataka won by 1 run,Surat
+2020-21,Quarter-Final,2021-01-26,Karnataka,Punjab,Punjab,Punjab won by 9 wickets,Ahmedabad
+2020-21,Quarter-Final,2021-01-26,Tamil Nadu,Himachal,Tamil Nadu,TN won by 5 wickets,Ahmedabad
+2020-21,Quarter-Final,2021-01-27,Haryana,Baroda,Baroda,Baroda won by 8 wickets,Ahmedabad
+2020-21,Quarter-Final,2021-01-27,Bihar,Rajasthan,Rajasthan,Rajasthan won by 16 runs,Ahmedabad
+2020-21,Semi-Final,2021-01-29,Punjab,Tamil Nadu,Tamil Nadu,TN won by 7 wickets,Ahmedabad
+2020-21,Semi-Final,2021-01-29,Baroda,Rajasthan,Baroda,Baroda won by 25 runs,Ahmedabad
+2020-21,Final,2021-01-31,Baroda,Tamil Nadu,Tamil Nadu,TN won by 7 wickets,Ahmedabad
+2021-22,Quarter-Final,2021-11-16,Tamil Nadu,Kerala,Tamil Nadu,TN won by 5 wickets,Delhi
+2021-22,Quarter-Final,2021-11-16,Bengal,Karnataka,Karnataka,Karnataka won by 6 wickets (VJD),Delhi
+2021-22,Quarter-Final,2021-11-17,Rajasthan,Vidarbha,Vidarbha,Vidarbha won by 9 wickets,Delhi
+2021-22,Quarter-Final,2021-11-17,Gujarat,Hyderabad,Hyderabad,Hyderabad won by 30 runs,Delhi
+2021-22,Semi-Final,2021-11-20,Vidarbha,Hyderabad,Hyderabad,Hyderabad won by 7 wickets,Delhi
+2021-22,Semi-Final,2021-11-20,Tamil Nadu,Karnataka,Karnataka,Karnataka won by 7 wickets,Delhi
+2021-22,Final,2021-11-22,Tamil Nadu,Karnataka,Tamil Nadu,TN won by 4 wickets,Delhi
+2022-23,Quarter-Final,2022-10-30,Bengal,Jharkhand,Bengal,Bengal won by 6 wickets,Kolkata
+2022-23,Quarter-Final,2022-10-30,Delhi,Vidarbha,Vidarbha,Vidarbha won by 4 runs,Kolkata
+2022-23,Quarter-Final,2022-10-30,Karnataka,Saurashtra,Saurashtra,Saurashtra won by 6 wickets,Kolkata
+2022-23,Quarter-Final,2022-10-30,Mumbai,Rajasthan,Mumbai,Mumbai won by 2 wickets,Kolkata
+2022-23,Semi-Final,2022-11-03,Himachal,Saurashtra,Saurashtra,Saurashtra won by 5 wickets,Kolkata
+2022-23,Semi-Final,2022-11-03,Punjab,Mumbai,Mumbai,Mumbai won by 2 wickets,Kolkata
+2022-23,Final,2022-11-05,Mumbai,Himachal,Himachal,HP won by 14 runs,Kolkata
+2023-24,Quarter-Final,2023-10-31,Assam,Bengal,Bengal,Bengal won by 8 wickets,Mohali
+2023-24,Quarter-Final,2023-10-31,Delhi,Uttar Pradesh,Delhi,Delhi won by 7 wickets,Mohali
+2023-24,Quarter-Final,2023-10-31,Gujarat,Mumbai,Mumbai,Mumbai won by 6 wickets,Mohali
+2023-24,Quarter-Final,2023-10-31,Kerala,Haryana,Kerala,Kerala won by 5 wickets,Mohali
+2023-24,Semi-Final,2023-11-04,Assam,Delhi,Assam,Assam won by 6 wickets,Mohali
+2023-24,Semi-Final,2023-11-04,Punjab,Baroda,Punjab,Punjab won by 5 wickets,Mohali
+2023-24,Final,2023-11-06,Punjab,Assam,Punjab,Punjab won by 6 wickets,Mohali
+2024-25,Semi-Final,2024-11-03,Punjab,Delhi,Punjab,Punjab won by 6 wickets,Kolkata
+2024-25,Semi-Final,2024-11-03,Karnataka,Tamil Nadu,Karnataka,Karnataka won by 4 wickets,Kolkata
+2024-25,Final,2024-11-05,Punjab,Karnataka,Punjab,Punjab won by 4 wickets,Kolkata
