@@ -1,4 +1,4 @@
-# 🏏 Smart Cricket Tournament Dataset
+# 🏏 SMAT Cricket Tournament Dataset
 
 This repository contains structured datasets related to the Smart
 Cricket Tournament, covering **match statistics, player batting
