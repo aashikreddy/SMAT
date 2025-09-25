@@ -1,6 +1,6 @@
 # 🏏 SMAT Cricket Tournament Dataset
 
-This repository contains structured datasets related to the Smart
+This repository contains structured datasets related to the Smat
 Cricket Tournament, covering **match statistics, player batting
 performance, player bowling performance, and playoff records**.\
 The data can be used for sports analytics, machine learning models, and
